@@ -64,4 +64,12 @@
 
 ---
 
-**After deployment to goerli network: ElonNFT deployed to:  0x59E50197131E3871bb87244B39bAF1F5184B99C4**
+**After deployment to goerli network: ElonNFT deployed to: 0x59E50197131E3871bb87244B39bAF1F5184B99C4**
+
+#### Once the contract is deployed you confirm your minted NFT
+
+---
+
+- Copy your contract address and scan it on **[Goerli Etherscan](https://goerli.etherscan.io/)**. The contract address must have appeared on terminal.
+
+- You can check your NFT in the **[Open Sea Testnet](https://testnets.opensea.io/)** by copying your contract address in the search item bar
