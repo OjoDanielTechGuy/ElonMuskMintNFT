@@ -3,6 +3,9 @@ const hre = require ("hardhat");
 async function main() {
 
     const ElonNFt = await hre.ethers.getContractFactory("ElonNFT");
+    
+    //var contract = await contractFactory.deploy({value:hre.ethers.utils.parseEther("0.1")});
+    
     const elon = await ElonNFt.deploy();
 
     await elon.deployed();
