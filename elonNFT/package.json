@@ -2,20 +2,21 @@
   "name": "elonnft",
   "version": "1.0.0",
   "description": "Making inter planetory travel possible and pushing the boundaries for mankind",
-  "image":"https://i.pinimg.com/236x/90/4c/76/904c7609c642aae2bad78060b81c04df.jpg",
-
-  "attributes":
-	[
-		{
-			"trait_type":"Zodiac","value":"Cancer"
-		},
-		{
-			"trait_type":"Height","value":"6'1"
-		},
-		{	"trait_type":"Personality Type","value":"INTJ"
-		}
-	],
-
+  "image": "https://i.pinimg.com/236x/90/4c/76/904c7609c642aae2bad78060b81c04df.jpg",
+  "attributes": [
+    {
+      "trait_type": "Zodiac",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Height",
+      "value": "6'1"
+    },
+    {
+      "trait_type": "Personality Type",
+      "value": "INTJ"
+    }
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,6 +26,7 @@
   "license": "ISC",
   "dependencies": {
     "@openzeppelin/contracts": "^4.7.3",
+    "dotenv": "^16.0.3",
     "hardhat": "^2.12.0"
   },
   "devDependencies": {
