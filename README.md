@@ -73,3 +73,5 @@
 - Copy your contract address and scan it on **[Goerli Etherscan](https://goerli.etherscan.io/)**. The contract address must have appeared on terminal.
 
 - You can check your NFT in the **[Open Sea Testnet](https://testnets.opensea.io/)** by copying your contract address in the search item bar
+
+### Link for MintedNFT: https://testnets.opensea.io/assets/goerli/0x59e50197131e3871bb87244b39baf1f5184b99c4/1
